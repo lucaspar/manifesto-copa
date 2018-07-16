@@ -1,0 +1,9 @@
+@import "~bulma/sass/utilities/initial-variables";
+@import "~bulma/sass/utilities/functions";
+
+$family-sans: "Roboto", "Open Sans", "sans-serif";
+$family-primary: $family-sans;
+
+@import "~bulma/sass/utilities/derived-variables";
+@import "bulma";
+@import "@/core/manifesto.scss";

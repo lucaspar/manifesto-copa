@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+html, body {
+    font-family: 'Ubuntu', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 160%;
+}
+.navbar-dropdown.dropdown-right {
+    left: calc(-100% + 4px);
+}
