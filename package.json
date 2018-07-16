@@ -17,7 +17,7 @@
     "bugs": {
         "url": "https://github.com/lucaspar/manifesto-copa/issues"
     },
-    "homepage": "",
+    "homepage": "https://lucaspar.github.io/manifesto-copa",
     "devDependencies": {
         "babel-core": "^6.26.0",
         "babel-loader": "^7.1.4",
